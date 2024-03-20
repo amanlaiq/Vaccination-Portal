@@ -71,14 +71,14 @@ Access the application in your web browser on localhost:4200 and log in with adm
 
 
 
-<img width="664" alt="image" src="">
+<img width="664" alt="image" src="https://github.com/amanlaiq/Vaccination-Portal/blob/main/ERD.png">
 
 
 **Relational Schema**
 
 
 
-<img width="769" alt="image" src="">
+<img width="769" alt="image" src="https://github.com/amanlaiq/Vaccination-Portal/blob/main/Relational%20Schema.png">
 
 
 
